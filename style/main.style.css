@@ -1,0 +1,46 @@
+/* Custom styling sesuai desain */
+.navbar {
+    background-color: #91c6f2;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.main-section {
+    background-color: #7a7a7a;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.main-button {
+    background-color: #91c6f2;
+    border: none;
+}
+.about-section {
+    padding: 40px 0;
+    text-align: center;
+}
+.about-section h5 {
+    color: #91c6f2;
+    font-weight: bold;
+}
+.features-section .feature {
+    text-align: center;
+    font-size: 14px;
+}
+.features-section .feature i {
+    font-size: 36px;
+    color: #91c6f2;
+}
+.car-section {
+    padding: 20px 0;
+    text-align: center;
+}
+.car-section .card {
+    border: none;
+}
+/* .car-section .btn-detail {
+    background-color: #91c6f2;
+    color: white;
+} */
